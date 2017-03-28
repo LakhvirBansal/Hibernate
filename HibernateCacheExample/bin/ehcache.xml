@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ehcache>
+ 
+<defaultCache maxElementsInMemory="100" eternal="false" timeToIdleSeconds="120" timeToLiveSeconds="150" />
+<cache name="com.hibernate.entity.Link" maxElementsInMemory="100" eternal="false" timeToIdleSeconds="7" timeToLiveSeconds="200" />
+ 
+</ehcache>
